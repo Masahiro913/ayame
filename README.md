@@ -1,2 +1,2 @@
-# ayame
- 
+# ayameデータの分類機械学習
+4項目をもとにpandasとsklearnを用いて分類
